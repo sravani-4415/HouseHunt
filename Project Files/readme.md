@@ -42,7 +42,7 @@ HouseHunt/
 
 1. **Clone the Repository**
    ```bash
-  git clone https://github.com/sravani-4415/HouseHunt.git
+   git clone https://github.com/sravani-4415/HouseHunt.git
    cd HouseHunt/Project\ Files
 2.Create a Virtual Environment (optional but recommended)
 

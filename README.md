@@ -53,11 +53,11 @@ git clone https://github.com/sravani-4415/HouseHunt.git cd "HouseHunt/Project Fi
 
 2️⃣ Run the Backend
 
-cd HouseHuntbackend npm install npm start Runs on: http://localhost:5000
+cd HouseHuntbackend npm install npm start Runs on: http://localhost:5173
 
 Ensure MongoDB is connected (local or cloud)
 
-3️⃣ Run the Frontend cd ../frontend npm install npm start Runs on: http://localhost:3000
+3️⃣ Run the Frontend cd ../frontend npm install npm start Runs on: http://localhost:5173
 
 🌱 Git Setup & Collaboration Inside the git/ folder:
 

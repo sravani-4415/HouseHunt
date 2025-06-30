@@ -88,7 +88,10 @@ git push origin main Refer to the Project Files/git/ directory for more detailed
 
 📫 Contact
 
-@sravani-4415.
+@sravani-4415
+@sudheerdogiparthi
+@Sahitya-000322
+@rushdagangapatla
 
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request. For major changes, please open an issue first.

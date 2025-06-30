@@ -70,6 +70,7 @@ Frontend runs on: http://localhost:5173/
 @sudheerdogiparthi
 @Sahitya-000322
 @rushdagangapatla
+
 For queries, suggestions, or contributions, feel free to raise an issue or contact the developer via GitHub.
 
 📄 License
